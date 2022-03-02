@@ -1,0 +1,7 @@
+{
+  "name": "learnionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
